@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native-seacrch-job",
+    "slug": "react-native-seacrch-job"
+  }
+}
