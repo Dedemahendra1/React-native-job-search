@@ -8,6 +8,8 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 npx create-react-native-app -t with-router
 ```
 
+https://expo.dev/@dede06/react-native-seacrch-job?serviceType=classic&distribu
+
 ## 📝 Notes
 
 - [Expo Router: Docs](https://expo.github.io/router)
